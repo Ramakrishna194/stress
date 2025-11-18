@@ -10,3 +10,9 @@
 
 3-1
 <img width="816" height="648" alt="image" src="https://github.com/user-attachments/assets/978c6c65-e6a7-4489-9bf8-d1496ba4f177" />
+
+
+
+======18 Nov =========
+pyhton-journalctl
+<img width="1097" height="670" alt="Screenshot from 2025-11-18 09-41-42" src="https://github.com/user-attachments/assets/c5a60f62-4790-4aba-80a2-468d9f34d351" />
