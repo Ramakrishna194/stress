@@ -23,9 +23,17 @@ pyhton-journalctl
 
 ------ task-1 ------
 <img width="710" height="571" alt="Screenshot 2025-11-18 153747" src="https://github.com/user-attachments/assets/7928069b-5b37-42f2-8c08-a1f096e69f02" />
+<img width="858" height="555" alt="image" src="https://github.com/user-attachments/assets/e06a9dab-9a2a-41fd-be25-7cce8c6a3bba" />
+
 
 
 
 ----- task-2 ------
 <img width="689" height="404" alt="Screenshot 2025-11-18 160835" src="https://github.com/user-attachments/assets/5a28f8cf-e910-465e-a7ee-318837486aea" />
 <img width="774" height="991" alt="Screenshot 2025-11-18 162016" src="https://github.com/user-attachments/assets/d5e87783-db0e-477e-b4d5-9e0a40ced8a6" />
+
+
+------ task-3 -------
+<img width="920" height="1011" alt="image" src="https://github.com/user-attachments/assets/ea6b7c3c-f489-4676-b03a-4fbc722cd20c" />
+<img width="928" height="1067" alt="image" src="https://github.com/user-attachments/assets/e994a3f6-e15b-46e2-9645-fedb06ccfeeb" />
+<img width="903" height="1080" alt="image" src="https://github.com/user-attachments/assets/33bfc0e6-4b3b-4011-a3f9-a4fbf75aea7b" />
