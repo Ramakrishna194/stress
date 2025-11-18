@@ -19,3 +19,7 @@ pyhton-journalctl
 
 ------ task-1 ------
 ![Uploading Screenshot 2025-11-18 153747.png…]()
+
+
+----- task-2 ------
+<img width="689" height="404" alt="Screenshot 2025-11-18 160835" src="https://github.com/user-attachments/assets/5a28f8cf-e910-465e-a7ee-318837486aea" />
