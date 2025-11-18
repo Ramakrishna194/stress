@@ -24,3 +24,4 @@ pyhton-journalctl
 
 ----- task-2 ------
 <img width="689" height="404" alt="Screenshot 2025-11-18 160835" src="https://github.com/user-attachments/assets/5a28f8cf-e910-465e-a7ee-318837486aea" />
+<img width="774" height="991" alt="Screenshot 2025-11-18 162016" src="https://github.com/user-attachments/assets/d5e87783-db0e-477e-b4d5-9e0a40ced8a6" />
