@@ -17,6 +17,10 @@
 pyhton-journalctl
 <img width="1097" height="670" alt="Screenshot from 2025-11-18 09-41-42" src="https://github.com/user-attachments/assets/c5a60f62-4790-4aba-80a2-468d9f34d351" />
 
+----- python inside container-journalctl -------
+<img width="859" height="330" alt="Screenshot 2025-11-18 173331" src="https://github.com/user-attachments/assets/02211c29-4ffb-4661-994b-b619b5d8dd02" />
+
+
 ------ task-1 ------
 <img width="710" height="571" alt="Screenshot 2025-11-18 153747" src="https://github.com/user-attachments/assets/7928069b-5b37-42f2-8c08-a1f096e69f02" />
 
